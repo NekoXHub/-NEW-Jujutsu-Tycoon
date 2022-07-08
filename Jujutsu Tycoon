@@ -1,2 +1,3 @@
 -- Jujutsu Tycoon
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoXHub/ASD/main/README.md?token=GHSAT0AAAAAABVXEM7RAQAFD6ZJP4LD6OUOYWGY6XA"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoXHub/ASD/main/README.md?token=GHSAT0AAAAAABVXEM7RTNBYZW62IUEEKEXAYWHOVEQ"))()
